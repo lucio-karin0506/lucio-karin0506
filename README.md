@@ -25,9 +25,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
 </h4>
 
- 
 <h3 align='center'>💪 Skills 💪</h3>
-
 
 <h3 align='center'>🤝 Collaboration Tools 🤝</h3>
 <h4 align='center'>
@@ -36,7 +34,6 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira Software&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=FFFFFF"/></a>
 </h4>
-
 
 <h3 align='center'>💻 IDE 💻</h3>
 <h4 align='center'>
