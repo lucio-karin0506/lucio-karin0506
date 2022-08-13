@@ -21,12 +21,23 @@
 <h2 align='center'>🛠️ Tech Stack 🛠️</h2>
 
 <h3 align='center'>🗣️ Language 🗣️</h3>
-
+<h4 align='center'><img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a></h4>
+ 
 <br>
-<h3 align='center'>🔧 Framework 🔧</h3>
+<h3 align='center'>💪 Skills 💪</h3>
 
 <br>
 <h3 align='center'>🤝 Collaboration Tools 🤝</h3>
+<h4 align='center'>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira Software&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=FFFFFF"/></a>
+</h4>
 
 <br>
 <h3 align='center'>💻 IDE 💻</h3>
+<h4 align='center'>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/></a>
+</h4>
