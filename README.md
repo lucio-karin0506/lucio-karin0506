@@ -26,10 +26,9 @@
 </h4>
 
  
-<br>
 <h3 align='center'>💪 Skills 💪</h3>
 
-<br>
+
 <h3 align='center'>🤝 Collaboration Tools 🤝</h3>
 <h4 align='center'>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
@@ -38,7 +37,7 @@
 <img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=FFFFFF"/></a>
 </h4>
 
-<br>
+
 <h3 align='center'>💻 IDE 💻</h3>
 <h4 align='center'>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
@@ -48,6 +47,4 @@
 <br>
 <!--- Github Stats --->
 <h2 align='center'>👩‍💻 Github Stats 👩‍💻</h2>
-<h3 align='center'>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucio-karin0506&show_icons=true&theme=algolia)
-</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucio-karin0506&theme=algolia&show_icons=true)
