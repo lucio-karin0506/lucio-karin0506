@@ -15,3 +15,18 @@
 <a href="mailto:syy2585@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=FFFFFF"/></a>
 
 </h3>
+
+<br>
+<!--- Tech Stack --->
+<h2 align='center'>🛠️ Tech Stack 🛠️</h2>
+
+<h3 align='center'>🗣️ Language 🗣️</h3>
+
+<br>
+<h3 align='center'>🔧 Framework 🔧</h3>
+
+<br>
+<h3 align='center'>🤝 Collaboration Tools 🤝</h3>
+
+<br>
+<h3 align='center'>💻 IDE 💻</h3>
