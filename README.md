@@ -21,7 +21,10 @@
 <h2 align='center'>🛠️ Tech Stack 🛠️</h2>
 
 <h3 align='center'>🗣️ Language 🗣️</h3>
-<h4 align='center'><img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a></h4>
+<h4 align='center'>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
+</h4>
+
  
 <br>
 <h3 align='center'>💪 Skills 💪</h3>
@@ -41,3 +44,10 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/></a>
 </h4>
+
+<br>
+<!--- Github Stats --->
+<h2 align='center'>👩‍💻 Github Stats 👩‍💻</h2>
+<h3 align='center'>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucio-karin0506&show_icons=true&theme=algolia)
+</h3>
