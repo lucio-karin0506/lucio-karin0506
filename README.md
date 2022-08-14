@@ -33,5 +33,5 @@
 
 <!--- Github Stats --->
 <h2 align='center'>👩‍💻 Github Stats 👩‍💻</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucio-karin0506&show_icons=true&theme=tokyo night)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucio-karin0506&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucio-karin0506&layout=compact&theme=tokyonight)
